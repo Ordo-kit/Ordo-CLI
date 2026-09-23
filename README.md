@@ -1,8 +1,16 @@
 # Clean Next.js + Sanity app
 
+[![Ordo on X](https://img.shields.io/badge/X-@runordo-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/runordo)
+
 This template includes a [Next.js](https://nextjs.org/) app with a [Sanity Studio](https://www.sanity.io/) – an open-source React application that connects to your Sanity project’s hosted dataset. The Studio is configured locally and can then be deployed for content collaboration.
 
-![Screenshot of Sanity Studio using Presentation Tool to do Visual Editing](/sanity-next-preview.png)
+The site this kit ships with:
+
+![Ordo homepage on runordo.dev](readme/home.png)
+
+![Ordo spiral on runordo.dev](readme/spiral.png)
+
+![Ordo sections on runordo.dev](readme/section.png)
 
 ## Features
 
