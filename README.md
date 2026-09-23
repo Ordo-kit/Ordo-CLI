@@ -1,6 +1,6 @@
 # Clean Next.js + Sanity app
 
-[![Ordo on X](https://img.shields.io/badge/X-@runordo-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/runordo)
+[![@runordo on X](readme/x-button.svg)](https://x.com/runordo)
 
 This template includes a [Next.js](https://nextjs.org/) app with a [Sanity Studio](https://www.sanity.io/) – an open-source React application that connects to your Sanity project’s hosted dataset. The Studio is configured locally and can then be deployed for content collaboration.
 
